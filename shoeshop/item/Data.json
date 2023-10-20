@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "brand": "BUNNY MON AMOUR",
+        "title": "몽아미에 소가죽 여성 스니커즈 블루",
+        "price": 288000
+    },
+
+    {
+        "id": 2,
+        "brand": "FORMEL CAMELE",
+        "title": "천연 소가죽 곡선 라인 퍼플 콤비 그레이 스니커즈",
+        "price": 63000
+    },
+
+    {
+        "id": 3,
+        "brand": "FORMEL CAMELE",
+        "title": "소가죽 콤비 레이스업 베이지 스니커즈",
+        "price": 44000
+    },
+
+    {
+        "id": 4,
+        "brand": "KUHO",
+        "title": "코튼 컨버스 시그니처 스니커즈 블랙",
+        "price": 120000
+    },
+
+    {
+        "id": 5,
+        "brand": "test",
+        "title": "Baby shoes",
+        "price": 120000
+    },
+    {
+        "id": 6,
+        "brand": "test2",
+        "title": "Red Herring",
+        "price": 120000
+    }
+]
